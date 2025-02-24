@@ -1,7 +1,7 @@
 # Forecasting Business Performance
 
 ## Giới thiệu
-Dự án này sử dụng các mô hình dự báo như ARIMA và LSTM để phân tích và dự đoán hiệu suất kinh doanh của một công ty thời trang trong giai đoạn 2021–2022. Kết quả của dự án cung cấp những thông tin quan trọng giúp doanh nghiệp cải thiện chiến lược bán hàng và tối ưu hóa doanh thu.
+Dự án này sử dụng các mô hình dự báo như SARIMAX, Transformer và LSTM để phân tích và dự đoán hiệu suất kinh doanh của một công ty thời trang trong giai đoạn 2021–2022. Kết quả của dự án cung cấp những thông tin quan trọng giúp doanh nghiệp cải thiện chiến lược bán hàng và tối ưu hóa doanh thu.
 
 ## Cấu trúc thư mục
 ```bash
